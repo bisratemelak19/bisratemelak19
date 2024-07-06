@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EYERUSALEM AKLILU</h1>
-<h3 align="center">ELECRICAL AND CONTROL ENGINEER</h3>
+<h3 align="center">ELECRICAL AND COMPUTER ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratemelak19&label=Profile%20views&color=0e75b6&style=flat" alt="bisratemelak19" /> </p>
 
